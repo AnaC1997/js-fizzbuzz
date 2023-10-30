@@ -1,0 +1,53 @@
+.sfondo {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 10px;
+  text-align: center;
+    
+    
+    
+}
+
+
+.fizz1{
+    width: 8%;
+    height: 50px;
+    margin: 10px;
+    background-color: cadetblue;
+    
+    
+}
+
+.buzz2{
+    width: 8%;
+    height: 50px;
+    margin: 10px;
+    background-color: rgb(55, 25, 226);
+ 
+}
+.fizz {
+    background-color: chartreuse;
+    width: 8%;
+    height: 50px;
+    margin: 10px;
+   
+
+}
+
+.buzz {
+
+    background-color: aqua;
+    width: 8%;
+    height: 50px;
+    margin: 10px;
+
+}
+
+.numero {
+    background-color: blueviolet;
+    width: 8%;
+    height: 50px;
+    margin: 10px;
+
+}
